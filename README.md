@@ -9,6 +9,7 @@ I am a Full Stack Web🌐- and App📱 Developer! Currently starting the 1st yea
 <a href="https://github.com/vigdisis/github-readme-stats">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=vigdisIS&count_private=true&show_icons=true&theme=radical&include_all_commits=true&hide_rank=true" />
 </a>
+
 - 🔭 I’m currently working on [Notion templates]() to streamline **project management** and **development process**
 - 🌱 I’m currently learning **💙Go** and **💿Remix**
 - 💬 I'm passionate about **team environment** and **developer experience**! Ask me anything related to cooperation or tech!
