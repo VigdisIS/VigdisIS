@@ -6,12 +6,17 @@
 I am a Full Stack Web🌐- and App📱 Developer! Currently starting the 1st year of my masters in Databases and Search🗃️🔍 at Norwegian University of Science and Technology (NTNU)🎓. Keen on exploring and learning new tech💻, and also dabble in data science🧮 and design🎨!
 
 ## 🐛 About me !
+<a href="https://github.com/vigdisis/github-readme-stats">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=vigdisIS&count_private=true&show_icons=true&theme=radical&include_all_commits=true&hide_rank=true" />
+</a>
 - 🔭 I’m currently working on [Notion templates]() to streamline **project management** and **development process**
 - 🌱 I’m currently learning **💙Go** and **💿Remix**
 - 💬 I'm passionate about **team environment** and **developer experience**! Ask me anything related to cooperation or tech!
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/vigdis-irene-steinsund/)
 - 📝 Take a look at my [resume]()
 - 🍡 In my spare time, I follow 🏎️Formula 1 and 🎮enjoy indie Switch games♡
+
+
 
 ## :hammer: Languages & tools
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -30,12 +35,6 @@ I am a Full Stack Web🌐- and App📱 Developer! Currently starting the 1st yea
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat=figma&logoColor=white)
-
-## :chart_with_upwards_trend: Stats
-
-[![VigdisIS's GitHub stats](https://github-readme-stats.vercel.app/api?username=vigdisIS&count_private=true&show_icons=true&theme=radical&include_all_commits=true)](https://github.com/vigdisis/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VigdisIS&layout=compact&theme=radical)](https://github.com/VigdisIS/github-readme-stats)
 
 <!--
 **VigdisIS/VigdisIS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
