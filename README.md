@@ -1,9 +1,8 @@
 # Hi there 👋 I'm Vigdis-Irene
 ![pronouns](https://img.shields.io/badge/-%F0%9F%90%B8She%2Fher-%23f547a9)
 ![loc](https://img.shields.io/badge/-%F0%9F%93%8DNorway-%2347a1f5)
-![age](https://img.shields.io/badge/-%F0%9F%8E%8921-%2358f728)
 
-I am a Full Stack Web🌐- and App📱 Developer! Currently starting the 1st year of my masters in Databases and Search🗃️🔍 at Norwegian University of Science and Technology (NTNU)🎓. Keen on exploring and learning new tech💻!
+I am a Full Stack Web🌐- and App📱 Developer!
 
 ## 🐛 About me !
 <a href="https://github.com/vigdisis/github-readme-stats">
@@ -11,8 +10,8 @@ I am a Full Stack Web🌐- and App📱 Developer! Currently starting the 1st yea
 </a>
 
 <!-- - 🔭 I’m currently working on [Notion templates]() to streamline **project management** and **development process** -->
-- 🌱 I’m currently learning **💙Go** and **💿Remix**
-- 💬 I'm passionate about **team environment** and **developer experience**! Ask me anything related to cooperation or tech!
+- 🌱 I’m currently learning 💙Go
+- 💬 I'm passionate about team environment and developer experience
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/vigdis-irene-steinsund/)
 <!-- - 📝 Take a look at my [resume]() -->
 <!-- - 🍡 In my spare time, I follow 🏎️Formula 1 and 🎮enjoy indie Switch games♡ -->
