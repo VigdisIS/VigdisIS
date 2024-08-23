@@ -1,10 +1,4 @@
 # Hi there 👋 I'm Vigdis-Irene
-![pronouns](https://img.shields.io/badge/-%F0%9F%90%B8She%2Fher-%23f547a9)
-![loc](https://img.shields.io/badge/-%F0%9F%93%8DNorway-%2347a1f5)
-
-<a href="https://github.com/vigdisis/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=vigdisIS&count_private=true&show_icons=true&theme=radical&include_all_commits=true&hide_rank=true&hide=stars,contribs" />
-</a>
 
 <!-- ## 🐛 About me !
 
